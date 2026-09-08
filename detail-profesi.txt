@@ -1,2 +1,6 @@
 Backend developer adalah pemrogram yang merancang, membangun, dan memelihara sistem di balik layar (server, database, dan logika aplikasi) yang tidak terlihat langsung oleh pengguna
 Requirement skill yang dibutuhkan :
+-Bahasa pemrograman serta frameworknya
+-Manajemen database
+-API & Komunikasi data
+-Server, keamanan, dan tools pendukung
