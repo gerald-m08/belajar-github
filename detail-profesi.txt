@@ -1,0 +1,1 @@
+Backend developer adalah pemrogram yang merancang, membangun, dan memelihara sistem di balik layar (server, database, dan logika aplikasi) yang tidak terlihat langsung oleh pengguna
