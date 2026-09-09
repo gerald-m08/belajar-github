@@ -4,4 +4,4 @@ Requirement skill yang dibutuhkan :
 -Manajemen database
 -API & Komunikasi data
 -Server, keamanan, dan tools pendukung
-halo
+tes
